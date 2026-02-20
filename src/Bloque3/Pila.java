@@ -2,7 +2,7 @@ package Bloque3;
 
 import java.util.ArrayList;
 
-public class Pilas {
+public class Pila {
 
     static void main() {
         Pila pila = new Pila();

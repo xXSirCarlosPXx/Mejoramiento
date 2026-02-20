@@ -2,7 +2,7 @@ package Bloque3;
 
 import java.util.ArrayList;
 
-public class Colas {
+public class Cola {
 
     static void main() {
         Cola cola = new Cola();
