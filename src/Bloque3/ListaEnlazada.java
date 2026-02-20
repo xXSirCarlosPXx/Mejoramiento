@@ -1,6 +1,6 @@
 package Bloque3;
 
-public class ListaEnlazada {
+public class ListaEnlazadas {
 
     static void main() {
         ListaEnlazada lista = new ListaEnlazada();
